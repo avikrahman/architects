@@ -336,11 +336,8 @@ top: 3109px;
 position: absolute;
 width: 55px;
 height: 53px;
-left: 383px;
-top: 3764.22px;
-
-font-family: 'Work Sans';
-font-style: normal;
+left: -1083px;
+top: 764.22px;
 font-weight: 600;
 font-size: 45px;
 line-height: 53px;
@@ -395,7 +392,7 @@ color: #424242;
 width: 47.39px;
 height: 45.22px;
 left: 18px;
-top: 1890px;
+top: 2890px;
 }
 .h4-th{
     position: absolute;
@@ -420,8 +417,6 @@ font-size: 20px;
 line-height: 23px;
 color: #727272;
 }
-
-
 .icon-four{
     position: absolute;
 width: 45px;
@@ -460,9 +455,6 @@ text-align: center;
 color: #727272;
 
 }
-
-
-
 .sponspors{
     position: absolute;
 width: 327px;
@@ -540,7 +532,6 @@ mix-blend-mode: luminosity;
 
 
 /* footer */
-
 .text-f{
     left: 323px;
 top: 4444px;
@@ -554,4 +545,11 @@ left: 223px;
 top: 4444px;
 display: flex;
 align-items: center;
+}
+
+
+/* /////responsibe */
+
+@media only screen and(max-width :688px) {
+    
 }
