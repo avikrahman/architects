@@ -186,8 +186,6 @@ top: 220px;
     flex-direction: row;
    align-items: center;
    
-  
-
 }
 .fea-p{
     position: absolute;
@@ -220,61 +218,9 @@ left: 870px;
 top: 2245px;
 }
 
-
-
-
-
-/* 
-.features-second{
-    position: absolute;
-width: 391px;
-height: 23px;
-left: -1050px;
-top: -1552px;
-/* font-weight: 600;
-font-size: 20px;
-line-height: 23px;
-
-/* Dark 01 */
-
-/* color: #131313; */
-}
-/* .h3-second{
-    
-
-width: 251px;
-height: 23px;
-left: 273px;
-top: 52px;
-} */
-/* .fea-p-sec{
-    position: absolute;
-width: 514px;
-height: 78px;
-left: 0px;
-top: -455px;
-
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-/* or 162% */
-
-
-/* Dark 03 */
-
-/* color: #727272; */
-}
- /* */ */ */
-
 .blog{
     
-/* position: absolute; */
-/* width: 586px;
-height: -1444px; */
-/* left: 140px;
-top: 2022px; */
+
 } 
 .features-second{
     position: absolute;
@@ -324,3 +270,288 @@ border-radius: 8px;
 
 
 
+
+ /* button */ 
+.exprience{
+    position: absolute;
+    width: 342px;
+    height: 200px;
+    left: 880px;
+    top: 3004px; 
+    
+    background: #FF900E;
+    border-radius: 8px;
+
+width: 248px;
+height: 139px;
+left: 1027px;
+top: 3050px;
+
+font-weight: 400;
+font-size: 30px;
+line-height: 50px;
+
+border: 2px solid #FF900E;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
+/* somefacts */
+
+.somefacts{
+    position: absolute;
+width: 258px;
+height: 53px;
+left: 90px;
+top: 3434px;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: #131313;
+}
+.some-p{
+position: absolute;
+width: 542px;
+height: 52px;
+left: 0px;
+top: 150px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #727272;
+}
+/* icon section */
+.icon-first{   
+position: absolute;
+width: 45.22px;
+height: 45.22px;
+left: 8px;
+top: 3109px;
+}
+.h4-first{
+    
+position: absolute;
+width: 55px;
+height: 53px;
+left: 383px;
+top: 3764.22px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+
+}
+.h4-p-f{
+    position: absolute;
+width: 169px;
+height: 23px;
+left: -20px;
+top: 3222.22px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+color: #727272;
+}
+ .awards{
+    position: absolute;
+    width: 169px;
+    height: 136.22px;
+    left: 326px;
+    top: 609px;}
+
+  
+
+/* second   */
+.icon-sec{  
+position: absolute;
+width: 45.22px;
+height: 45.22px;
+left: 18px;
+top: 2505px;
+}
+.h4-sec{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 18px;
+top: 2505px;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+text-align: center;
+color: #424242;
+}
+
+
+.icon-th{
+    position: absolute;
+width: 47.39px;
+height: 45.22px;
+left: 18px;
+top: 1890px;
+}
+.h4-th{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 18px;
+top: 1889px;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+text-align: center;
+color: #424242;
+}
+.h4-p-th{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 18px;
+top: 1992px;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+color: #727272;
+}
+
+
+.icon-four{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 27px;
+top: 1291px;
+}
+.h4-first{
+    
+position: absolute;
+width: 45px;
+height: 45px;
+left: 0px;
+top: 1274px;
+
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+
+
+text-align: center;
+
+color: #424242;
+}
+.h4-p-f{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 0px;
+top: 1390px;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #727272;
+
+}
+
+
+
+.sponspors{
+    position: absolute;
+width: 327px;
+height: 53px;
+left: -907px;
+top: 2085px;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: #131313;
+}
+.spons-p{
+    position: absolute;
+width: 542px;
+height: 52px;
+left: -907px;
+top: 2192px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+text-align: center;
+
+color: #727272;
+
+}
+
+/* sponser logo  */
+.spotify{
+    position: absolute;
+width: 166.76px;
+height: 50px;
+left: -840px;
+top: 2364px;
+
+mix-blend-mode: luminosity;
+}
+.amazon{
+    position: absolute;
+width: 165.83px;
+height: 50px;
+left: -562px;
+top: 2368px;
+
+mix-blend-mode: luminosity;
+}
+.google{
+    
+position: absolute;
+width: 153.33px;
+height: 50px;
+left: -320px;
+top: 2364px;
+
+mix-blend-mode: luminosity;
+}
+.tele{
+    position: absolute;
+width: 152.51px;
+height: 50px;
+left: -101px;
+top: 2364px;
+
+mix-blend-mode: luminosity;
+}
+.figma{
+    position: absolute;
+width: 181.67px;
+height: 50px;
+left: 128px;
+top: 2364px;
+
+mix-blend-mode: luminosity;
+}
+
+
+/* footer */
+
+.text-f{
+    left: 323px;
+top: 4444px;
+
+background: #FFF4E7;
+border-radius: 8px;
+position: absolute;
+width: 840px;
+height: 50px;
+left: 223px;
+top: 4444px;
+display: flex;
+align-items: center;
+}
